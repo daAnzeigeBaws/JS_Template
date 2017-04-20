@@ -1,8 +1,16 @@
 # JS_Template
-This is a template for any JavaScript project. It features a basic setup and a complete unit testing environment.
+This is a template for a single page application (SPA) project, which is the setup of a modern web site.
+This document only provides a basic overview of the project, for further information refer to the wiki!
 
-The architecture of the project is a single page application (SPA), which is the setup of a modern web site.
-Therefor the JavaScript files are the following:
+## Setup Guide
+
+Get started by cloning the project:
+
+`git clone https://github.com/daAnzeigeBaws/JS_Template.git`
+
+## Architecture
+
+The core JavaScript files are the following:
 
 | File           | Purpose |
 | -------------- | ------- |
